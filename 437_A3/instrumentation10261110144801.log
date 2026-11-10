@@ -1,0 +1,15 @@
+STARTTIMING: main
+|   STARTTIMING: loop
+|   |   STARTTIMING: doSomeStuff()
+|   |   STOPTIMING: doSomeStuff() 49.80us
+|   |   STARTTIMING: doSomeStuff()
+|   |   STOPTIMING: doSomeStuff() 12.70us
+|   |   STARTTIMING: doSomeStuff()
+|   |   STOPTIMING: doSomeStuff() 9.10us
+|   |   STARTTIMING: doSomeStuff()
+|   |   STOPTIMING: doSomeStuff() 8.00us
+|   |   STARTTIMING: doSomeStuff()
+|   |   STOPTIMING: doSomeStuff() 7.50us
+|   STOPTIMING: loop 151.00us
+|   COMMENT: this is an example of a comment!
+STOPTIMING: main 164.10us
